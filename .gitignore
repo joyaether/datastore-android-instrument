@@ -4,7 +4,7 @@
 local.properties
 libs/checkstyle/
 libs/ivy/
-libs/pmd/
+libs/findbugs/
 bin/
 gen/
 reports/
