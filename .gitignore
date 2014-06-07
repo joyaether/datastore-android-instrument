@@ -1,6 +1,7 @@
 .checkstyle
 .pmd
 .ruleset
+local.properties
 libs/checkstyle/
 libs/ivy/
 libs/pmd/
