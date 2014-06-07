@@ -1,0 +1,11 @@
+.checkstyle
+.pmd
+.ruleset
+libs/checkstyle/
+libs/ivy/
+libs/pmd/
+bin/
+gen/
+reports/
+**/.svn/
+.svn/
